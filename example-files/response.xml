@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GetCourseDetailsResponse xmlns="http://mamarbari.com/testdemo"
+                          xsi:schemaLocation="http://mamarbari.com/testdemo course-details.xsd"
+                          xmlns:xsi="http://www.w3.org/2001/XMLSchema">
+    <CourseDetails>
+        <id>123</id>
+        <name>Spring Description</name>
+        <description>Easy to learn Spring</description>
+    </CourseDetails>
+
+</GetCourseDetailsResponse>
